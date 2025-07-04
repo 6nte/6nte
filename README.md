@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ente</h1>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
